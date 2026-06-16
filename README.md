@@ -10,9 +10,16 @@ The game is inspired by the classic "Guess 80% of the Average" concept but adds 
 
 🎥 Watch the gameplay here:
 
-> Add your GitHub video link here after uploading the demo.
+
+
+https://github.com/user-attachments/assets/27b9af46-31f6-4777-90dd-7375f136b90e
+
+
 
 ---
+Win screen looks like:
+<img width="1449" height="817" alt="Screenshot 2026-06-16 at 10 49 58 PM" src="https://github.com/user-attachments/assets/1d0c5524-9bf8-46f6-996c-603b58009d4d" />
+
 
 ## 🚀 Features
 
